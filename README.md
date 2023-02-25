@@ -27,7 +27,7 @@
 # "Source File" Example:
 ```
 Creator = Cracko
-Load_Files = 1
+Load_Files = 2
 Seek_File_1 = 32
 Edit_Byte_1 = 9999
 Seek_File_2 = 36
