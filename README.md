@@ -30,4 +30,5 @@ Seek_File_1 = 32
 Edit_Byte_1 = 9999
 Seek_File_2 = 36
 Edit_Byte_2 = 9999
-Developer_Notes = This Plugin Edits your Health & Food/Hunger.```
+Developer_Notes = This Plugin Edits your Health & Food/Hunger.
+```
