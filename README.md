@@ -27,7 +27,7 @@
 # "Source File" Example:
 ```
 Creator = Cracko
-Load_Files = 2     # Can be from value "one" to a value of "three". "three" allows you to seek and edit data a total of three times.
+Load_Files = 2   # Can be from value "one" to a value of "three". "three" allows you to seek and edit data a total of "three" times.
 Seek_File_1 = 32
 Edit_Byte_1 = 9999
 Seek_File_2 = 36
