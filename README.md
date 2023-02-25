@@ -50,7 +50,7 @@ Load_Files = 1 >>> Edit_Byte_1 & Seek_File_1
 ```
 
 # Output:
-- ***This is the output source of the .ISplg from [Here](https://github.com/Cracko298/ISplg-Compiler/blob/main/README.md#source-file-example)
+- ***This is the output of Compiler. Used the .ISplg from [Here](https://github.com/Cracko298/ISplg-Compiler/blob/main/README.md#source-file-example).***
 ```
 Penpxb
 2   # Pna or sebz inyhr "bar" gb n inyhr bs "guerr". "guerr" nyybjf lbh gb frrx naq rqvg qngn n gbgny bs "guerr" gvzrf.
