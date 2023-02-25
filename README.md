@@ -4,7 +4,7 @@
 # Download The Compiler:
 - Download [Here]()
 - Create a file named ***source.txt*** in the same directory as the compiler.
-- Then open it and look at the [Documentation](https://github.com/Cracko298/ISplg-Compiler#making-your-plugin) or the Provided [Example](https://github.com/Cracko298/ISplg-Compiler/blob/main/README.md#source-file-example)
+- Then open it and look at the [Documentation](https://github.com/Cracko298/ISplg-Compiler#making-your-plugin) or the Provided [Example](https://github.com/Cracko298/ISplg-Compiler/blob/main/README.md#source-file-example).
 
 
 # Making Your Plugin:
