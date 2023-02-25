@@ -39,12 +39,12 @@ Developer_Notes = This Plugin Edits your Health & Food/Hunger.
 - ***Load_Files = 3 is the max value accepted.***
 
 ```
-Load_Files = 3 >>> Edit_Byte_3
+Load_Files = 3 >>> Edit_Byte_3 & Seek_File_3
 ```
 ```
-Load_Files = 2 >>> Edit_Byte_2
+Load_Files = 2 >>> Edit_Byte_2 & Seek_File_2
 ```
 ```
-Load_Files = 1 >>> Edit_Byte_1
+Load_Files = 1 >>> Edit_Byte_1 & Seek_File_1
 ```
 
