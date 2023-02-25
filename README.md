@@ -24,7 +24,8 @@
 >> Develop_Notes = Edits Save-Data Health To 9999.
 
 # Plugin Example:
-```Creator = Cracko
+```
+Creator = Cracko
 Load_Files = 1
 Seek_File_1 = 32
 Edit_Byte_1 = 9999
