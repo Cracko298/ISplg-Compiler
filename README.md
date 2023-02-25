@@ -3,7 +3,8 @@
 
 # Download The Compiler:
 - Download [Here]()
-- 
+- Create a file named ***source.txt*** in the same directory as the compiler.
+- Then look at the [documentation]()
 
 
 # Making Your Plugin:
