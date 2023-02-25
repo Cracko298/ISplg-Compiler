@@ -49,3 +49,15 @@ Load_Files = 2 >>> Edit_Byte_2 & Seek_File_2
 Load_Files = 1 >>> Edit_Byte_1 & Seek_File_1
 ```
 
+# Output:
+- ***This is the output source of the .ISplg from [Here]()
+```
+Penpxb
+2   # Pna or sebz inyhr "bar" gb n inyhr bs "guerr". "guerr" nyybjf lbh gb frrx naq rqvg qngn n gbgny bs "guerr" gvzrf.
+32
+20031
+68
+30031
+Qrirybcre_Abgrf = Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
+```
+
