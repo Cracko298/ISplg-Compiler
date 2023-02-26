@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['C:\\Users\\batch_kl6edmc\\Downloads\\Compiler.py'],
+    ['C:\\Users\\batch_kl6edmc\\Downloads\\dist\\Compiler.py'],
     pathex=[],
     binaries=[],
     datas=[],
