@@ -6,6 +6,7 @@
 - Create a file named ***source.txt*** in the same directory as the compiler.
 - Then open it and look at the [Documentation](https://github.com/Cracko298/ISplg-Compiler#making-your-plugin) or the Provided [Example](https://github.com/Cracko298/ISplg-Compiler/blob/main/README.md#source-file-example).
 - Need Help with Save-Data? We got you covered with this [Repo](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Editing).
+- This Compiler was made for the [NISZSE (New Ice Station Z Save-Editor)](https://github.com/Cracko298/NISZSE).
 
 
 # Making Your Plugin:
