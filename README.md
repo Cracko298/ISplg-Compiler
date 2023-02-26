@@ -2,7 +2,7 @@
 - Compile your .ISplg Plugins using the documentation below. These plugins are used for the (NISZSE).
 
 # Download The Compiler:
-- Download [Here](https://github.com/Cracko298/ISplg-Compiler/blob/main/ISplg-Compiler.exe?raw=true)
+- Download [Here](https://github.com/Cracko298/ISplg-Compiler/blob/main/ISplg-Compiler.exe?raw=true).
 - Create a file named ***source.txt*** in the same directory as the compiler.
 - Then open it and look at the [Documentation](https://github.com/Cracko298/ISplg-Compiler#making-your-plugin) or the Provided [Example](https://github.com/Cracko298/ISplg-Compiler/blob/main/README.md#source-file-example).
 - Need Help with Save-Data? We got you covered with this [Repo](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Editing).
