@@ -70,4 +70,4 @@ Qrirybcre_Abgrf = Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
 
 # Make Your Own.
 
-<embed width="560" height="315" src="https://www.youtube.com/embed/RD2yW7iVvDM?controls=0"</embed>
+<embed>https://www.youtube.com/embed/RD2yW7iVvDM</embed>
