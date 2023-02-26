@@ -70,7 +70,4 @@ Qrirybcre_Abgrf = Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
 
 # Make Your Own.
 
-https://youtube-md.vercel.app/<RD2yW7iVvDM>/<width>/<height>
-
-
-RD2yW7iVvDM
+-Tutorial [Here](https://youtube.com/watch=RD2yW7iVvDM)
