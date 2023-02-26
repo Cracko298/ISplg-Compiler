@@ -69,5 +69,4 @@ Qrirybcre_Abgrf = Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
 - Get Hacked Clothes [Download](https://github.com/Cracko298/ISplg-Compiler/releases/download/v1.1/clothes.ISplg).
 
 # Make Your Own.
-
-{% _includes youtube.html id="RD2yW7iVvDM"%}
+[![Me at the zoo](https://youtube-md.vercel.app/jNQXAC9IVRw/640/360)](https://www.youtube.com/watch?v=RD2yW7iVvDM)
