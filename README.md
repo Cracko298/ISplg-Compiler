@@ -62,8 +62,8 @@ Penpxb
 Qrirybcre_Abgrf = Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
 ```
 
-# Example Downloads:
-- Edit Health [Download]().
-- Get Flamethrower [Download]().
-- Fix OpenByte Error [Download]().
-- Get Hacked Clothes [Download]().
+# Example *.ISplg Downloads:
+- Edit Health [Download](https://github.com/Cracko298/ISplg-Compiler/releases/download/v1.1/health.ISplg).
+- Get Flamethrower [Download](https://github.com/Cracko298/ISplg-Compiler/releases/download/v1.1/flame.ISplg).
+- Fix OpenByte Error [Download](https://github.com/Cracko298/ISplg-Compiler/releases/download/v1.1/error.ISplg).
+- Get Hacked Clothes [Download](https://github.com/Cracko298/ISplg-Compiler/releases/download/v1.1/clothes.ISplg).
