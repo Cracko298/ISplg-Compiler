@@ -15,7 +15,7 @@
 # Making Your Plugin:
 
 > *Adding a Creator Name.
->> Creator = Cracko
+>> Creator = ExampleName
 >
 > *Adding a Plugin Mode.
 >> Load_Files = 1
