@@ -8,6 +8,9 @@
 - Need Help with Save-Data? We got you covered with this [Repo](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Editing).
 - This Compiler was made for the [NISZSE (New Ice Station Z Save-Editor)](https://github.com/Cracko298/NISZSE).
 
+# Converting .Zplg to .ISplg
+- Download The [Latest Converter]().
+- Have the .Zplg in the Same Directory as the Converter.
 
 # Making Your Plugin:
 
