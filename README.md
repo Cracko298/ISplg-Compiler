@@ -15,7 +15,7 @@
 # Making Your Plugin:
 
 > *Adding a Creator Name.
->> Creator = ExampleName
+>> Creator = EpixSpeakerZ
 >
 > *Adding a Plugin Mode.
 >> Load_Files = 1
