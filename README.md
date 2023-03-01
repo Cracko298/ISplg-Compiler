@@ -15,7 +15,7 @@
 # Making Your Plugin:
 
 > *Adding a Creator Name.
->> Creator = EpixSpeakerZ
+>> Creator = Sound&SpeakerZ
 >
 > *Adding a Plugin Mode.
 >> Load_Files = 1
