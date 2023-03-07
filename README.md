@@ -62,7 +62,7 @@ Penpxb
 20031
 68
 30031
-Qrirybcre_Abgrf = Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
+Guvf Cyhtva Rqvgf lbhe Urnygu & Sbbq/Uhatre.
 ```
 
 # Example *.ISplg Downloads:
